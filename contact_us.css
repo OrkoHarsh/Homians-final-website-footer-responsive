@@ -1003,7 +1003,7 @@ color: #78A92D;
 @media (max-width: 480px) {
   .container {
     z-index: 1;
-    /* padding: 1.5rem; */
+    padding: 1.5rem;
     /* padding-bottom: .01rem !important; */
     min-height: 98vh;
 
